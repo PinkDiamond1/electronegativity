@@ -36,7 +36,7 @@
     "@babel/parser": "^7.14.3",
     "@babel/traverse": "^7.14.2",
     "@doyensec/csp-evaluator": "^1.0.3",
-    "@mapbox/node-pre-gyp": "^1.0.5",
+    "@mapbox/node-pre-gyp": "^2.0.0",
     "@typescript-eslint/typescript-estree": "^4.24.0",
     "@yarnpkg/lockfile": "^1.1.0",
     "asar": "^3.0.3",
